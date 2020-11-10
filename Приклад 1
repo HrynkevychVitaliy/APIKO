@@ -1,0 +1,27 @@
+const students = [
+    {
+        firstName: "Юрій",
+        lastName: "Дмитрів",
+        rating: 80
+    },
+    {
+        firstName: "Дмитро",
+        lastName: "Замора",
+        rating: 70
+    },
+    {
+        firstName: "Микола",
+        lastName: "Пилипчук",
+        rating: 98
+    },
+    {
+        firstName: "Віталій",
+        lastName: "Гринкевич",
+        rating: 85
+    },
+    {
+        firstName: "Василь",
+        lastName: "Когут",
+        rating: 60
+    }    
+        ]
